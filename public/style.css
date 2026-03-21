@@ -1,0 +1,14 @@
+body{
+    font-family: Arial;
+    text-align:center;
+}
+
+#messages{
+    list-style:none;
+    padding:10px;
+}
+
+li{
+    padding:5px;
+    border-bottom:1px solid #ddd;
+}
