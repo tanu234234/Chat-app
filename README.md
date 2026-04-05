@@ -87,3 +87,8 @@ You can open the application in multiple browser tabs or different devices to si
 ## Conclusion
 
 This project demonstrates how **WebSocket-based communication using Socket.IO** enables real-time interaction between multiple users. By integrating frontend technologies with a Node.js backend server, the application provides a practical example of a live chat system where users can exchange messages instantly without refreshing the page.
+
+# Output 
+
+<img width="685" height="665" alt="Image" src="https://github.com/user-attachments/assets/b095c15d-dcb9-4fd8-a714-4af0cc701613" />
+
