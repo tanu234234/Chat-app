@@ -10,7 +10,7 @@
 
 **MENTOR**: NEELA SANTHOSH
 
-# Real-Time Chat Application
+# Chat Application
 
 ## Overview
 
